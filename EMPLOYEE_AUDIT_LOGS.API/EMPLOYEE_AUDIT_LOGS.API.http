@@ -1,0 +1,6 @@
+@EMPLOYEE_AUDIT_LOGS.API_HostAddress = http://localhost:5243
+
+GET {{EMPLOYEE_AUDIT_LOGS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

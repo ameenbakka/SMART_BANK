@@ -1,0 +1,6 @@
+@INCOMING_TRANSFERS.API_HostAddress = http://localhost:5114
+
+GET {{INCOMING_TRANSFERS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

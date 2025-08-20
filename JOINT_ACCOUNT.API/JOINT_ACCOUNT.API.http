@@ -1,0 +1,6 @@
+@JOINT_ACCOUNT.API_HostAddress = http://localhost:5282
+
+GET {{JOINT_ACCOUNT.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

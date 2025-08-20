@@ -1,0 +1,6 @@
+@REMITTANCE.API_HostAddress = http://localhost:5072
+
+GET {{REMITTANCE.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
