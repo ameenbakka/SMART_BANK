@@ -1,0 +1,6 @@
+@KYC_DOCUMENT.API_HostAddress = http://localhost:5191
+
+GET {{KYC_DOCUMENT.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
